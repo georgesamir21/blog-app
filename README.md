@@ -1,6 +1,6 @@
 ## Description
 
-A simple Blog app API end points using nestjs(https://nestjs.com).
+A simple Blog app API (end points) using [nestjs](https://nestjs.com).
 
 ## Installation
 
